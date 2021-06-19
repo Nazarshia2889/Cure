@@ -1,1 +1,1 @@
-# Cure
+# Cure (Game)
