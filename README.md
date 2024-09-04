@@ -1,4 +1,5 @@
 # Cure (Game)
 
-2D Java Video Game \
-Learned about key OOP concepts
+A 2D Video Game in Java
+
+Survive all five levels to win!
